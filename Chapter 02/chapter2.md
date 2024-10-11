@@ -65,6 +65,7 @@ b = 3 * 0.1			# sometimes we can get arbitrary no. of decimal places but python 
 print(b)
 
 
+
 #integers and floats
 a = 4/2				# when you divide any 2 no.s, even if they are integers that result in whole no., you'll always get a float 
 print(a)
